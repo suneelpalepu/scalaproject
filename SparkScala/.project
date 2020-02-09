@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SparkScala</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.scala-ide.sdt.core.scalabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.scala-ide.sdt.core.scalanature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>data/MN212142_9392.csv</name>
+			<type>1</type>
+			<location>C:/Users/a228912/Desktop/datasets/MN212142_9392.csv</location>
+		</link>
+		<link>
+			<name>data/TX417945_8515.csv</name>
+			<type>1</type>
+			<location>C:/Users/a228912/Desktop/datasets/TX417945_8515.csv</location>
+		</link>
+	</linkedResources>
+</projectDescription>
